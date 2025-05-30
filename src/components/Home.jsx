@@ -19,7 +19,7 @@ const Home = () => {
         {/* Profile Image */}
         <div className="md:w-1/3 flex justify-center">
           <img
-            src="portfolio.jpg"
+            src="/portfolio.jpg"
             alt="Nazarin Noushad, MERN Stack Developer"
             className="w-72 h-72 md:w-80 md:h-80 rounded-full object-cover border-4 border-white shadow-xl"
           />

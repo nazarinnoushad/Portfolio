@@ -67,7 +67,7 @@ const Home = () => {
               View Projects
             </a>
             <a
-              href="/Nazarin_Noushad_CV.pdf"
+              href="nazarinCV.jpeg"
               download
               className="px-6 py-3 text-base rounded-full bg-black text-white border border-black hover:bg-transparent hover:text-black transition"
             >

@@ -12,7 +12,7 @@ const PortfolioSection = () => {
             rel="noopener noreferrer"
             className="group relative overflow-hidden rounded-lg shadow-md block"
           >
-            <img
+            <img 
               src="VSCodewebsiteClone.png"
               alt="VS code WebsiteClone"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"

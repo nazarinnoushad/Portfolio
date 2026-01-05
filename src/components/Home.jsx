@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { GitHub, LinkedIn, Email } from "@mui/icons-material";
-import portfolio from '../assets/Images/portfolio'
+import Profile from '../assets/Images/Profile.jpeg'
 
 const Home = () => {
   const [showName, setShowName] = useState(true);
@@ -20,7 +20,7 @@ const Home = () => {
         {/* Profile Image */}
         <div className="md:w-1/3 flex justify-center">
           <img
-            src={portfolio}
+            src={Profile}
             alt="Nazarin Noushad, MERN Stack Developer"
             className="w-72 h-72 md:w-80 md:h-80 rounded-full object-cover border-4 border-white shadow-xl"
           />
